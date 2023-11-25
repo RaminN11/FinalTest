@@ -63,3 +63,5 @@ static void Main(string[] args)
 }
 }
  ```
+## Результат вывода в терминал:
+![Alt text](<Снимок экрана (37).png>)
