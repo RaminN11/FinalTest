@@ -4,39 +4,6 @@
 
 
 
-    
-        
-// Console.WriteLine("Введите элементы массива через запятую:");
-// string input = Console.ReadLine();
-// string[] inputArray = input.Split(',');
-
-// int count = 0;
-// for (int i = 0; i < inputArray.Length; i++)
-//     {
-//         if (inputArray[i].Length <= 3)
-//         {
-//             count++;
-//         }
-//     }
-
-        
-// string[] newArray = new string[count];
-// int index = 0;
-// for (int i = 0; i < inputArray.Length; i++)
-// {
-//     if (inputArray[i].Length <= 3)
-//     {
-//         newArray[index] = inputArray[i];
-//         index++;
-//     }
-// }
-
-        
-// Console.WriteLine("Новый массив строк, длина элементов которых <= 3:");
-// for (int i = 0; i < newArray.Length; i++)
-// {
-//     Console.WriteLine(newArray[i]);
-// }
 using System;
 
 class Program
